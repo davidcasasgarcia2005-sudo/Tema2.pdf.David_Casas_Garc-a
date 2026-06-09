@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coleccion_cds>
+
+    <cd>
+        <titulo>A HARD DAY'S NIGHT</titulo>
+        <artista>THE BEATLES</artista>
+        <codigo_catalogo>CDP 7 46437 2</codigo_catalogo>
+        <codigo_barras>077774643726</codigo_barras>
+        <codigo_precio>DIDX 1256</codigo_precio>
+        <codigo_sello>AAD</codigo_sello>
+        <discograficas>
+            <compania>EMI RECORDS LTD.</compania>
+            <compania>APPLE RECORDS</compania>
+            <compania>PARLOPHONE</compania>
+        </discograficas>
+        <año_grabacion original="1964">1964</año_grabacion>
+        <autores_musica>WORDS AND MUSIC: JOHN LENNON AND PAUL McCARTNEY</autores_musica>
+        <notas>FROM THE SOUNDTRACK OF THE UNITED ARTISTS FILM 'A HARD DAY'S NIGHT'</notas>
+        <lista_canciones>
+            <cancion numero="1">A Hard Day's Night</cancion>
+            <cancion numero="2">I Should Have Known Better</cancion>
+            <cancion numero="3">If I Fell</cancion>
+            <cancion numero="4">I'm Happy Just to Dance With You</cancion>
+            <cancion numero="5">And I Love Her</cancion>
+            <cancion numero="6">Tell Me Why</cancion>
+            <cancion numero="7">Can't Buy Me Love</cancion>
+            <cancion numero="8">Any Time at All</cancion>
+            <cancion numero="9">I'll Cry Instead</cancion>
+            <cancion numero="10">Things We Said Today</cancion>
+            <cancion numero="11">When I Get Home</cancion>
+            <cancion numero="12">You Can't Do That</cancion>
+            <cancion numero="13">I'll Be Back</cancion>
+        </lista_canciones>
+    </cd>
+
+    <cd>
+        <titulo>ABBEY ROAD</titulo>
+        <artista>THE BEATLES</artista>
+        <codigo_catalogo>CDP 7 46446 2</codigo_catalogo>
+        <codigo_barras>077774644624</codigo_barras>
+        <codigo_precio>UK: CD-PCS 7088</codigo_precio>
+        <formato>STEREO</formato>
+        <discograficas>
+            <compania>EMI Records Ltd.</compania>
+            <compania>Apple</compania>
+            <compania>PARLOPHONE</compania>
+        </discograficas>
+        <año_grabacion original="1969" remasterizado="1987">1987</año_grabacion>
+        <lista_canciones>
+            <cancion numero="1">COME TOGETHER</cancion>
+            <cancion numero="2">SOMETHING</cancion>
+            <cancion numero="3">MAXWELL'S SILVER HAMMER</cancion>
+            <cancion numero="4">OH! DARLING</cancion>
+            <cancion numero="5">OCTOPUS'S GARDEN</cancion>
+            <cancion numero="6">I WANT YOU (She's So Heavy)</cancion>
+            <cancion numero="7">HERE COMES THE SUN</cancion>
+            <cancion numero="8">BECAUSE</cancion>
+            <cancion numero="9">YOU NEVER GIVE ME YOUR MONEY</cancion>
+            <cancion numero="10">SUN KING</cancion>
+            <cancion numero="11">MEAN MR MUSTARD</cancion>
+            <cancion numero="12">POLYTHENE PAM</cancion>
+            <cancion numero="13">SHE CAME IN THROUGH THE BATHROOM WINDOW</cancion>
+            <cancion numero="14">GOLDEN SLUMBERS</cancion>
+            <cancion numero="15">CARRY THAT WEIGHT</cancion>
+            <cancion numero="16">THE END</cancion>
+            <cancion numero="17">HER MAJESTY</cancion>
+        </lista_canciones>
+    </cd>
+
+    <cd>
+        <titulo>FLOWERS</titulo>
+        <artista>THE ROLLING STONES</artista>
+        <codigo_catalogo>820 139-2</codigo_catalogo>
+        <codigo_barras>042282013927</codigo_barras>
+        <codigo_precio>BA 900</codigo_precio>
+        <codigo_sello>AAD</codigo_sello>
+        <distribucion>RH</distribucion>
+        <discograficas>
+            <compania>LONDON RECORDS</compania>
+            <compania>THE DECCA RECORD CO. LTD.</compania>
+            <compania>abkco</compania>
+        </discograficas>
+        <productor>Andrew Loog Oldham</productor>
+        <arreglos>The Rolling Stones</arreglos>
+        <año_grabacion>1987</año_grabacion>
+        <lugar_fabricacion>West Germany</lugar_fabricacion>
+        <tiempo_total>36.56</tiempo_total>
+        <coordinacion>JOHN TRACY FOR DECCA INTERNATIONAL</coordinacion>
+        <lista_canciones>
+            <cancion numero="1" duracion="3.15">
+                <titulo_pista>RUBY TUESDAY</titulo_pista>
+                <compositores>Jagger, Richards</compositores>
+            </cancion>
+            <cancion numero="2" duracion="2.33" modo="MONO">
+                <titulo_pista>HAVE YOU SEEN YOUR MOTHER, BABY, STANDING IN THE SHADOW?*</titulo_pista>
+                <compositores>Jagger, Richards</compositores>
+            </cancion>
+            <cancion numero="3" duracion="3.36">
+                <titulo_pista>LET'S SPEND THE NIGHT TOGETHER</titulo_pista>
+                <compositores>Jagger, Richards</compositores>
+            </cancion>
+            <cancion numero="4" duracion="3.06">
+                <titulo_pista>LADY JANE</titulo_pista>
+                <compositores>Jagger, Richards</compositores>
+            </cancion>
+            <cancion numero="5" duracion="3.42">
+                <titulo_pista>OUT OF TIME</titulo_pista>
+                <compositores>Jagger, Richards</compositores>
+            </cancion>
+            <cancion numero="6" duracion="2.38">
+                <titulo_pista>MY GIRL</titulo_pista>
+                <compositores>Robinson, White</compositores>
+            </cancion>
+            <cancion numero="7" duracion="3.26">
+                <titulo_pista>BACK STREET GIRL</titulo_pista>
+                <compositores>Jagger, Richards</compositores>
+            </cancion>
+            <cancion numero="8" duracion="3.16">
+                <titulo_pista>PLEASE GO HOME</titulo_pista>
+                <compositores>Jagger, Richards</compositores>
+            </cancion>
+            <cancion numero="9" duracion="2.43">
+                <titulo_pista>MOTHER'S LITTLE HELPER</titulo_pista>
+                <compositores>Jagger, Richards</compositores>
+            </cancion>
+            <cancion numero="10" duracion="2.46">
+                <titulo_pista>TAKE IT OR LEAVE IT</titulo_pista>
+                <compositores>Jagger, Richards</compositores>
+            </cancion>
+            <cancion numero="11" duracion="2.53">
+                <titulo_pista>RIDE ON, BABY</titulo_pista>
+                <compositores>Jagger, Richards</compositores>
+            </cancion>
+            <cancion numero="12" duracion="3.02">
+                <titulo_pista>SITTIN' ON A FENCE</titulo_pista>
+                <compositores>Jagger, Richards</compositores>
+            </cancion>
+        </lista_canciones>
+    </cd>
+
+</coleccion_cds>

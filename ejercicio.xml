@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<busqueda_libros tematica="XML">
+    
+    <libreria nombre="Amazon">
+        <libro isbn="978-8441543210">
+            <titulo>XML Práctico y Esencial</titulo>
+            <nivel>básico</nivel>
+            <autores>
+                <autor>Juan Pérez Gómez</autor>
+            </autores>
+            <editorial>Anaya Multimedia</editorial>
+            <fecha_publicacion>2022-03-15</fecha_publicacion>
+            <web>https://www.anayamultimedia.es/libro/xml-practico</web>
+            <precio moneda="EUR">24.95</precio>
+        </libro>
+        <libro isbn="978-8499641234">
+            <titulo>Domine XML y esquemas de validación</titulo>
+            <nivel>intermedio</nivel>
+            <autores>
+                <autor>José López Montoro</autor>
+                <autor>Ana Martínez Soler</autor>
+            </autores>
+            <editorial>Ra-Ma</editorial>
+            <fecha_publicacion>2023-11-20</fecha_publicacion>
+            <precio moneda="EUR">32.00</precio>
+        </libro>
+        <libro isbn="978-0131475359">
+            <titulo>XML Advanced Technologies and Architectures</titulo>
+            <nivel>avanzado</nivel>
+            <autores>
+                <autor>Michael Kay</autor>
+            </autores>
+            <editorial>Prentice Hall</editorial>
+            <fecha_publicacion>2021-06-10</fecha_publicacion>
+            <web>https://www.prenticehall.com/xml-advanced</web>
+            <precio moneda="USD">45.99</precio>
+        </libro>
+    </libreria>
+
+    <libreria nombre="La Casa del Libro">
+        <libro isbn="978-8420551122">
+            <titulo>Introducción al Desarrollo Web con XML</titulo>
+            <nivel>básico</nivel>
+            <autores>
+                <autor>Carlos Santana Ruiz</autor>
+            </autores>
+            <editorial>Pearson</editorial>
+            <fecha_publicacion>2020-01-18</fecha_publicacion>
+            <precio moneda="EUR">19.50</precio>
+        </libro>
+        <libro isbn="978-8441588990">
+            <titulo>XSLT y XPath: Procesamiento de XML</titulo>
+            <nivel>intermedio</nivel>
+            <autores>
+                <autor>Elena Garcés Salvador</autor>
+            </autores>
+            <editorial>Anaya Multimedia</editorial>
+            <fecha_publicacion>2024-02-05</fecha_publicacion>
+            <web>https://www.anayamultimedia.es/libro/xslt-xpath</web>
+            <precio moneda="EUR">29.90</precio>
+        </libro>
+        <libro isbn="978-1491912345">
+            <titulo>Enterprise XML Data Integration</titulo>
+            <nivel>avanzado</nivel>
+            <autores>
+                <autor>Thomas Schulte</autor>
+                <autor>David Hunter</autor>
+            </autores>
+            <editorial>O'Reilly</editorial>
+            <fecha_publicacion>2025-08-12</fecha_publicacion>
+            <precio moneda="EUR">42.15</precio>
+        </libro>
+    </libreria>
+    
+</busqueda_libros>
